@@ -52,7 +52,7 @@ class GPRPyApp:
         self.highfac=1
         fontfac=(normscrwidt/normscrhigt)/(scrwidt/scrhigt)
         
-        master.title("GPRPy")
+        master.title("Minnetonka Telecom GPR")
         
         # Variables specific to GUI
         self.balloon = Pmw.Balloon()
